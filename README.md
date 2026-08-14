@@ -1,6 +1,6 @@
 # Drone Remote ID Reader Samples
 
-This repository provides sample applications for receiving and decoding Drone Remote ID (DRI) broadcasts on Windows using the [Bluetooth Framework](https://www.btframework.com/bluetoothframework.htm) and [Wi-Fi Framework](https://www.btframework.com/wififramework.htm). The samples are available in **Delphi**, **C++Builder**, **C++**, **VB.NET**, and **C#**.
+This repository provides sample applications for receiving and decoding **Drone Remote ID** (**DRI**) broadcasts on Windows using the [Bluetooth](https://www.btframework.com/bluetoothframework.htm) and [Wi-Fi](https://www.btframework.com/wififramework.htm) Frameworks. The samples are available in **Delphi**, **C++Builder**, **MS C++**, **VB.NET**, and **C#**.
 
 ## What is DRI
 

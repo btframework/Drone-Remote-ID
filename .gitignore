@@ -2,6 +2,7 @@
 /**/obj
 /**/build
 /**/__history
+/**/FileContentIndex
 
 *.db
 *.suo
@@ -11,9 +12,4 @@
 *.identcache
 *.user
 *.opendb
-/.NET/App/c\#/.vs/DroneRemoteID/FileContentIndex
-.NET/App/c\#/.vs/DroneRemoteID/v17/DocumentLayout.backup.json
-/.NET/App/vb.net/.vs/DroneRemoteID/FileContentIndex
-.NET/App/vb.net/.vs/DroneRemoteID/v17/DocumentLayout.backup.json
-/C++/App/.vs/DroneRemoteId/FileContentIndex
-C++/App/.vs/DroneRemoteId/v17/DocumentLayout.backup.json
+*.backup.json

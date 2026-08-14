@@ -8,12 +8,11 @@ DRI systems use WiFi or Bluetooth to broadcast Remote ID data to close surroundi
 
 Please do not hesitate to contact us at support@btframework.com if you have any questions.
 
-## How to build
+### Build configuration
 
-* .NET samples is designed for .NET Framework 4.0 and above and created in Visual Studio 2022
-* C++ samples is designed for Visual Studio 2022 (SDK: 10.0.22000, Toolset v143)
-* Delphi samples is designed for Delphi/CBuilder (RAD Studio) 10
-
+**.NET**: .NET Framework 4.0, Visual Studio 2022  
+**C++**: Visual Studio 2022, SDK 10.0.22000, Toolset v143  
+**VCL**: RAD Studio (Delphi/CBuilder) 10  
 
 
 

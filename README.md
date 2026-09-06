@@ -4,6 +4,9 @@ This repository provides sample applications for receiving and decoding **Drone 
 
 ## What is DRI
 
+<img width="1664" height="928" alt="1788689059" src="https://github.com/user-attachments/assets/3b11c10b-0e67-4131-b526-b973650e7c9b" />
+
+
 Drone Remote ID acts as a digital license plate for drones, broadcasting identification and telemetry such as unique ID, position, altitude, speed, heading, and operator location via Bluetooth Low Energy and Wi-Fi beacons. The frameworks handle scanning, message reassembly, and parsing according to ASTM F3411 (US) and ASD-STAN prEN 4709-002 (EU) standards, delivering structured drone data to your application. You can find more about Drone Remote ID on [our site](https://www.btframework.com/droneremoteid.htm).  
 
 This sample provides a ready-to-run starting point for building drone monitoring, fleet tracking, public safety, and airspace awareness applications on Windows.  

@@ -19,6 +19,7 @@
 #include <wclErrors.hpp>
 #include <wclMessaging.hpp>
 #include <Winapi.ActiveX.hpp>
+#include <wclSync.hpp>
 
 //-- user supplied -----------------------------------------------------------
 
